@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "fde81819-d017-46cd-9895-d5d446d88013",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "winNumber": {
+      "ver": "1.0.3",
+      "uuid": "028325d6-71f4-4dff-96ab-82db5599293f",
+      "rawTextureUuid": "fde81819-d017-46cd-9895-d5d446d88013",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 298,
+      "height": 31,
+      "rawWidth": 299,
+      "rawHeight": 31,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
