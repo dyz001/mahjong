@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e7af4371-97cb-4821-b284-f48c21f4c9e8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "img_benxi_down": {
+      "ver": "1.0.3",
+      "uuid": "ae15c709-a8bf-41d5-90bf-b7c747cf19c9",
+      "rawTextureUuid": "e7af4371-97cb-4821-b284-f48c21f4c9e8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 204,
+      "height": 81,
+      "rawWidth": 204,
+      "rawHeight": 81,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
