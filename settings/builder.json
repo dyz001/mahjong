@@ -1,0 +1,28 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "com.mobg.cn",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "f281f92c-e707-4f1a-800d-2ad2c51e83a9",
+  "title": "mahjong",
+  "webOrientation": "auto",
+  "xxteaKey": "2529be05-6a13-49"
+}

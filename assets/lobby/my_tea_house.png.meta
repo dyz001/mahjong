@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "10ddc5ec-0fd1-4b51-ab42-7cbb9cfdb647",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "my_tea_house": {
+      "ver": "1.0.3",
+      "uuid": "f43009e9-ed2f-453e-a406-cfcaefb9c4b0",
+      "rawTextureUuid": "10ddc5ec-0fd1-4b51-ab42-7cbb9cfdb647",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -2,
+      "trimX": 0,
+      "trimY": 4,
+      "width": 264,
+      "height": 285,
+      "rawWidth": 264,
+      "rawHeight": 289,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
